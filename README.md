@@ -4,7 +4,7 @@
 
 A simple and beautiful responsive image slider (carousel) built using HTML, CSS, and JavaScript. This slider supports manual navigation via arrows as well as automatic transitions every few seconds.
 
-## 📸 Demo
+## 📸 live  Demo : https://yuvashree9542.github.io/Image-Slidershow/ 
 ![Image](https://github.com/user-attachments/assets/5fcee9d8-1ebe-4805-8cae-8cd2a2320577)
 
 ## ✨ Features
